@@ -1,0 +1,27 @@
+body
+{
+  background-color: #FCF8F5
+}
+
+h1 
+{
+  text-align: center;
+  text-decoration-line: underline;
+}
+
+
+p
+{
+  font-weight: bolder;
+  text-align: left;
+}
+
+nav
+{
+  text-align: end;
+}
+
+footer
+{
+  text-align: center;
+}
